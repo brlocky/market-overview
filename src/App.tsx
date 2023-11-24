@@ -28,7 +28,7 @@ function App() {
         </div>
 
         <div className="flex-col">
-          <MiniChart colorTheme="dark" width="100%" symbol="SPX" dateRange='1D'   />
+          <MiniChart colorTheme="dark" width="100%" symbol="AMEX:SPY" dateRange='1D'   />
         </div>
 
         <div className="flex-col">
